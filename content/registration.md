@@ -23,11 +23,11 @@ You have the option to register online at http://getmeregistered.com/stcrecsumme
 
   | Activity | Registration Deadline |
   | --- | --- |
-  | Baseball, and Softball Registration | April 9, 2021 |
-  | All other sports registration | May 10, 2021 |
+  | Baseball, and Softball Registration | April 11, 2022 |
+  | All other sports registration | May 9, 2022 |
 
 ## Printable PDF Forms
 
-  Download (English): {{< button "All Activities - 2021 Summer REC Registration Form (English)" "/pdf-forms/2021SummerRecRegistrationForm.pdf" >}}
+  Download (English): {{< button "All Activities - 2022 Summer REC Registration Form (English)" "/pdf-forms/2022SummerRec-RegistrationForm-English.pdf" >}}
 
-  Download (Spanish): {{< button "All Activities - 2021 Summer REC Registration Form (Spanish)" "/pdf-forms/2021RECRegistrationSPANISH.png" >}}
+  Download (Spanish): {{< button "All Activities - 2022 Summer REC Registration Form (Spanish)" "/pdf-forms/2022SummerRec-RegistrationForm-SPANISH.pdf" >}}

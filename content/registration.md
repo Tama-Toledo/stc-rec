@@ -1,6 +1,6 @@
 ---
 title: Registration
-date: 2021-03-09T22:10:57-06:00
+date: 2022-08-07T09:28:08-05:00
 aliases:
   - /register/
 ---
@@ -23,11 +23,29 @@ You have the option to register online at http://getmeregistered.com/stcrecsumme
 
   | Activity | Registration Deadline |
   | --- | --- |
-  | Baseball, and Softball Registration | April 11, 2022 |
-  | All other sports registration | May 9, 2022 |
+  | Football and Soccer Registration | August 29, 2022 |
+  | Basketball Registration | September 9, 2022 |
+  <!-- | Baseball, and Softball Registration | April 11, 2022 |
+  | All other sports registration | May 9, 2022 | -->
 
 ## Printable PDF Forms
 
-  Download (English): {{< button "All Activities - 2022 Summer REC Registration Form (English)" "/pdf-forms/2022SummerRec-RegistrationForm-English.pdf" >}}
+  <!-- Download (English): {{< button "All Activities - 2022 Summer REC Registration Form (English)" "/pdf-forms/2022SummerRec-RegistrationForm-English.pdf" >}}
 
-  Download (Spanish): {{< button "All Activities - 2022 Summer REC Registration Form (Spanish)" "/pdf-forms/2022SummerRec-RegistrationForm-SPANISH.pdf" >}}
+  Download (Spanish): {{< button "All Activities - 2022 Summer REC Registration Form (Spanish)" "/pdf-forms/2022SummerRec-RegistrationForm-SPANISH.pdf" >}}   -->
+  
+  Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2022-Fall-Soccer-Football-Schedule.pdf" >}}
+
+  Download (English and Spanish Versions): {{< button "Flag Football - 2022 Fall REC Registration Form" "/pdf-forms/2022-Flag-Football-Registration-Form.pdf" >}}
+
+  Download (English and Spanish Versions): {{< button "Soccer - 2022 Fall REC Registration Form" "/pdf-forms/2022-Fall-Soccer-Registration-Form.pdf" >}}
+
+  Download (English): {{< button "STC REC BASKETBALL 2022-23 - DETAILS" "/pdf-forms/2022-23-Basketball-Details_English.pdf" >}}
+
+  Download (English): {{< button "STC REC BASKETBALL 2022-23 - Registration Form" "/pdf-forms/2022-23-Basketball-Registration-Form_English.pdf" >}}
+
+  Download (Spanish): {{< button "STC REC BÁSQUETBOL 2022-23 - DETALLES" "/pdf-forms//Users/mark/GitHub/stc-rec/static/pdf-forms/2022-23-Basketball-Details_Spanish.pdf" >}}
+
+  Download (Spanish): {{< button "STC REC BÁSQUETBOL 2022-23 - Registration Form" "/pdf-forms/2022-23-Basketball-Registration-Form_Spanish.pdf" >}}
+
+

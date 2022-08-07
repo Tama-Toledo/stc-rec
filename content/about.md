@@ -1,6 +1,6 @@
 ---
 title: About Us
-date: 2020-03-03T14:37:15-06:00
+date: 2022-08-07T09:32:14-05:00
 ---
 
 The **STC Recreational Program** was established in 1976. It is a nonprofit organization and is supported by the taxpayers of Tama and Toledo. STC REC is available to all youth in grades K-8 (depending on the sport) within the STC School District. The REC program strives to improve program availability, facilities, and equipment. Some past improvements include: adding a batting cage, scoreboards, and fencing improvements. STC REC is managed by a board of seven member/volunteers who meet regularly. If a person is interested in becoming a board member, contact a board member or the board president.

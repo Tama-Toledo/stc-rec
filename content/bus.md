@@ -1,6 +1,6 @@
 ---
 title: Bus Schedule for Summer Rec
-date: 2020-03-04T13:46:35-06:00
+date: 2022-08-07T09:31:59-05:00
 ---
 
 Times are approximate and subject to change as season begins, and can be affected due to traffic.

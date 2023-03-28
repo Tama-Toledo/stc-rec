@@ -13,8 +13,8 @@ Check back later for more information.
 
 | Name | Role | Phone | Email |
 | ---  | ---  | ---   | ---   |
-| Samantha Peska | Board President | Cellular: 641-295-6295 | {{< mailto "speska@aea267.k12.ia.us" >}} |
-| Claire Mayo | Board Secretary | Cellular: 563-321-8961 | {{< mailto "clairemgraves@hotmail.com" >}} |
+| Samantha Peska | Board President | Cellular: 641-295-6295 | {{< mailto "speska@s-tama.k12.ia.us" >}} |
+| Claire Mayo | Board Secretary | Cellular: 563-321-8961 | {{< mailto "clairemgraves@gmail.com" >}} |
 | Lindsay Schumacher | Treasurer | Cellular: 319-461-3755 | {{< mailto "lschumacher@lattaharris.com" >}} |
 | Chelsea Ahrens | Board Member | Cellular: 641-481-5112 | {{< mailto "cahrens@s-tama.k12.ia.us" >}} |
 | Trish Tow | Board Member | Cellular: 641-354-3129 | {{< mailto "trishtow@hotmail.com" >}} |

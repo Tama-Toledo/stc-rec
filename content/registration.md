@@ -24,10 +24,10 @@ You have the option to register online at http://getmeregistered.com/stcrec.
 
   | Activity | Registration Deadline |
   | --- | --- |
-  <!-- | Football and Soccer Registration | August 29, 2022 |
-  | Basketball Registration | September 9, 2022 | -->
   | Baseball and Softball Registration | April 10, 2023 |
   | All other sports registration | May 8, 2023 | 
+  <!-- | Football and Soccer Registration | August 29, 2022 |
+  | Basketball Registration | September 9, 2022 | -->
 
 ## Printable PDF Forms
 

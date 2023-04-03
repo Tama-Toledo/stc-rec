@@ -24,9 +24,9 @@ You have the option to register online at http://getmeregistered.com/stcrec.
 
   | Activity | Registration Deadline |
   | --- | --- |
-  | Football and Soccer Registration | August 29, 2022 |
-  | Basketball Registration | September 9, 2022 |
-  | Baseball, and Softball Registration | April 10, 2023 |
+  <!-- | Football and Soccer Registration | August 29, 2022 |
+  | Basketball Registration | September 9, 2022 | -->
+  | Baseball and Softball Registration | April 10, 2023 |
   | All other sports registration | May 8, 2023 | 
 
 ## Printable PDF Forms
@@ -34,8 +34,8 @@ You have the option to register online at http://getmeregistered.com/stcrec.
   Download (English): {{< button "All Activities - 2023 Summer REC Registration Form (English)" "/pdf-forms/2023SummerRec-RegistrationForm-ENG.pdf" >}}
 
   Download (Spanish): {{< button "All Activities - 2023 Summer REC Registration Form (Spanish)" "/pdf-forms/2023SummerRec-RegistrationForm-SPAN.pdf" >}}   
-  
-  Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2022-Fall-Soccer-Football-Schedule.pdf" >}}
+
+<!-- >  Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2022-Fall-Soccer-Football-Schedule.pdf" >}}
 
   Download (English and Spanish Versions): {{< button "Flag Football - 2022 Fall REC Registration Form" "/pdf-forms/2022-Flag-Football-Registration-Form.pdf" >}}
 
@@ -47,6 +47,6 @@ You have the option to register online at http://getmeregistered.com/stcrec.
 
   Download (Spanish): {{< button "STC REC BÁSQUETBOL 2022-23 - DETALLES" "/pdf-forms//Users/mark/GitHub/stc-rec/static/pdf-forms/2022-23-Basketball-Details_Spanish.pdf" >}}
 
-  Download (Spanish): {{< button "STC REC BÁSQUETBOL 2022-23 - Registration Form" "/pdf-forms/2022-23-Basketball-Registration-Form_Spanish.pdf" >}}
+  Download (Spanish): {{< button "STC REC BÁSQUETBOL 2022-23 - Registration Form" "/pdf-forms/2022-23-Basketball-Registration-Form_Spanish.pdf" >}} -->
 
 

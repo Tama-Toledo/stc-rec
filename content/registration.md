@@ -26,14 +26,14 @@ You have the option to register online at http://getmeregistered.com/stcrec.
   | --- | --- |
   | Football and Soccer Registration | August 29, 2022 |
   | Basketball Registration | September 9, 2022 |
-  <!-- | Baseball, and Softball Registration | April 11, 2022 |
-  | All other sports registration | May 9, 2022 | -->
+  <!-- | Baseball, and Softball Registration | April 10, 2023 |
+  | All other sports registration | May 8, 2023 | -->
 
 ## Printable PDF Forms
 
-  <!-- Download (English): {{< button "All Activities - 2022 Summer REC Registration Form (English)" "/pdf-forms/2022SummerRec-RegistrationForm-English.pdf" >}}
+  <!-- Download (English): {{< button "All Activities - 2023 Summer REC Registration Form (English)" "/pdf-forms/2023SummerRec-RegistrationForm-ENG.pdf" >}}
 
-  Download (Spanish): {{< button "All Activities - 2022 Summer REC Registration Form (Spanish)" "/pdf-forms/2022SummerRec-RegistrationForm-SPANISH.pdf" >}}   -->
+  Download (Spanish): {{< button "All Activities - 2023 Summer REC Registration Form (Spanish)" "/pdf-forms/2023SummerRec-RegistrationForm-SPAN.pdf" >}}   -->
   
   Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2022-Fall-Soccer-Football-Schedule.pdf" >}}
 

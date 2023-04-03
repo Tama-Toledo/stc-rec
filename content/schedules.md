@@ -1,13 +1,11 @@
 ---
 title: Schedules
-date: 2022-08-07T09:20:08-05:00
+date: 2023-04-03T11:21:16-05:00
 ---
 
 Schedules will be updated on a seasonal basis.
 
 ## Attachments
-
-
 
   Download the 2023 June Summer REC Schedule:  {{< button "2023 Summer REC Schedule" "/pdf-forms/2023-SummerRECSchedule.pdf" >}}
 

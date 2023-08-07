@@ -25,6 +25,6 @@ Schedules will be updated on a seasonal basis.
 
   Download the June 2022 5th/6th Grade Baseball REC Schedule:  {{< button "June 2022 5th/6th Grade Baseball Schedule" "/pdf-forms/2022-JuneBaseball-5th_6thGradeRECSchedule.pdf" >}} -->
 
-  Download the 2023 Football & Soccer REC Schedule:  {{< button "2022 Football & Soccer Schedule" "static/pdf-forms/2023-Fall-Soccer-&-Football-Schedule-Sheet1.pdf" >}}
+  Download the 2023 Football & Soccer REC Schedule:  {{< button "2023 Football & Soccer Schedule" "static/pdf-forms/2023-Fall-Soccer-&-Football-Schedule-Sheet1.pdf" >}}
 
   <!-- Download the 2022-23 Basketball REC Schedule:  {{< button "2022-23 Basketball Schedule" "2022-23-Basketball-Registration-Info-Sheet.pdf" >}} -->

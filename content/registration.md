@@ -29,7 +29,7 @@ You have the option to register online at http://getmeregistered.com/stcrec.
 
 ## Printable PDF Forms
 
-<!-- >  Download (English): {{< button "All Activities - 2023 Summer REC Registration Form (English)" "/pdf-forms/2023SummerRec-RegistrationForm-ENG.pdf" >}}
+<!--  Download (English): {{< button "All Activities - 2023 Summer REC Registration Form (English)" "/pdf-forms/2023SummerRec-RegistrationForm-ENG.pdf" >}}
 
   Download (Spanish): {{< button "All Activities - 2023 Summer REC Registration Form (Spanish)" "/pdf-forms/2023SummerRec-RegistrationForm-SPAN.pdf" >}}   -->
 
@@ -45,6 +45,6 @@ You have the option to register online at http://getmeregistered.com/stcrec.
 
   Download (Spanish): {{< button "STC REC BÁSQUETBOL 2023-24 - DETALLES" "/pdf-forms/2023-24_Basketball_Registration_Info_Sheet_Spanish.docx" >}}
 
-  Download (Spanish): {{< button "STC REC BÁSQUETBOL 2023-24 - Registration Form" "/pdf-forms/23-24_Basketball_Registration_Form_Spanish.docx" >}} -->
+  Download (Spanish): {{< button "STC REC BÁSQUETBOL 2023-24 - Registration Form" "/pdf-forms/23-24_Basketball_Registration_Form_Spanish.docx" >}}
 
 

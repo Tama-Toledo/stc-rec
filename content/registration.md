@@ -33,7 +33,7 @@ You have the option to register online at http://getmeregistered.com/stcrec.
 
   Download (Spanish): {{< button "All Activities - 2023 Summer REC Registration Form (Spanish)" "/pdf-forms/2023SummerRec-RegistrationForm-SPAN.pdf" >}}   -->
 
-  Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2023-Fall-Soccer-&-Football-Schedule-Sheet1.pdf" >}}
+  Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2023-Fall-Soccer-And-Football-Schedule-Sheet1.pdf" >}}
 
   Download (English and Spanish Versions): {{< button "Flag Football - 2023 Fall REC Registration Form" "pdf-forms/2023-Flag-Football-Registration-Form.pdf" >}}
 

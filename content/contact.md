@@ -13,10 +13,11 @@ Check back later for more information.
 
 | Name | Role | Phone | Email |
 | ---  | ---  | ---   | ---   |
-| Samantha Peska | Board President | Cellular: 641-295-6295 | {{< mailto "speska@s-tama.k12.ia.us" >}} |
+| Chelsea Ahrens | Board President | Cellular: 641-481-5112 | {{< mailto "cahrens@s-tama.k12.ia.us" >}} |
 | Claire Mayo | Board Secretary | Cellular: 563-321-8961 | {{< mailto "clairemgraves@gmail.com" >}} |
 | Lindsay Schumacher | Treasurer | Cellular: 319-461-3755 | {{< mailto "lschumacher@lattaharris.com" >}} |
 | Chelsea Ahrens | Board Member | Cellular: 641-481-5112 | {{< mailto "cahrens@s-tama.k12.ia.us" >}} |
-| Trish Tow | Board Member | Cellular: 641-354-3129 | {{< mailto "trishtow@hotmail.com" >}} |
 | Ashley Raue | Board Member | Cellular: 641-485-0187 | {{< mailto "araue@s-tama.k12.ia.us" >}} |
 | Jenny Schlabaugh | Board Member | Cellular: 641-751-4504 | {{< mailto "cjschlabaugh@gmail.com" >}} |
+| Tolly Van Dyke | Board Member | Cellular: 641-751-7897 | {{< mailto "vandyke2232@yahoo.com" >}} |
+| Deanna Zmolek | Board Member | Cellular: 641-485-2710 | {{< mailto "dzmolek@s-tama.k12.ia.us" >}} |

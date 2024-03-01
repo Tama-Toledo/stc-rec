@@ -1,14 +1,16 @@
 ---
 title: Bus Schedule for Summer Rec
-date: 2022-08-07T09:31:59-05:00
+date: 2024-03-01T09:39:08-06:00
 ---
 
+Sorry, STC Rec can no longer offer bus transportation in the summer months.
+
+<!--
 Times are approximate and subject to change as season begins, and can be affected due to traffic.
 
 &nbsp;&nbsp;&nbsp;&nbsp;_Bus Driver_: Ellie Dolezal (641-485-2880)
 
 Click {{< button "Bus-Schedule - Ellie Dolezal" "/pdf-forms/BusSchedule.pdf" >}} to download a printable {{< fa bus >}} schedule.
-
 
 ## Monday, Tuesday, Wednesday & Thursday in June
 
@@ -61,3 +63,5 @@ Click {{< button "Bus-Schedule - Ellie Dolezal" "/pdf-forms/BusSchedule.pdf" >}}
 | ---         | ---                                       |
 | 12:15pm     | Toledo Heights                            |
 | ---         | Delivered to drop-off locations as needed |
+
+-->

@@ -18,7 +18,7 @@ Or, you may save postage and drop completed forms off at either the STC Elementa
 
 You also have the option to register online this year at http://getmeregistered.com/stcrecSummer, and there are **NO added fees for credit card payments**!  
 
-**NOTE:** If you are registering a child for multiple sports or registering more than one child at a time, scroll to the bottom of the http://getmeregistered.com/stcrec page and select `Multiple Registrations`.  It will make the process easier for you! :smile:
+**NOTE:** If you are registering a child for multiple sports or registering more than one child at a time, scroll to the bottom of the http://getmeregistered.com/stcrecSummer page and select `Multiple Registrations`.  It will make the process easier for you! :smile:
 
 ## Registration Deadlines
 

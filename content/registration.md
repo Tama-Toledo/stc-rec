@@ -41,10 +41,9 @@ You also have the option to register online this year at http://getmeregistered.
 
 ### Softball / Baseball / T-Ball 2024
 
-  Download (English): {{< button "Softball / Baseball / T-Ball Registration Form" "https://docs.google.com/document/d/1wiGfJ6HBA1p2c8hYygiNu5iIrG1Qzm15ITXqZ7a2Aus/edit?usp=drive_web" >}}  
+  Download (English): {{< button "Softball / Baseball / T-Ball Registration Form (English)" "https://docs.google.com/document/d/1wiGfJ6HBA1p2c8hYygiNu5iIrG1Qzm15ITXqZ7a2Aus/edit?usp=drive_web" >}}  
 
-  Download (Spanish): **We are working on it.  Check back soon!**
-
+  Download (Spanish): {{< button "Softball / Baseball / T-Ball Registration Form (Spanish)" "https://docs.google.com/document/d/1g3THF6wl9qVeqodxoj3JDjXgiNmsxcZlQVmQi8S7azA/edit?usp=drive_web" >}}
 
   <!--
   Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2023-Fall-Soccer-And-Football-Schedule-Sheet1.pdf" >}}

@@ -24,13 +24,12 @@ You also have the option to register online this year at http://getmeregistered.
 
   | Activity | Registration Deadline |
   | --- | --- |
+  | Football and Soccer Registration | August 29, 2024 |  
+  | Basketball Registration | Ends October 1, 2024 |   
   <!--
   | Baseball and Softball Registration | Friday March 22, 2024 |
   | All other sports registration | Monday April 29, 2024 | 
-  -->
-  | Football and Soccer Registration | August 29, 2024 |
-  | Basketball Registration | To be announced | 
-  
+  -->  
 ## Printable Forms
 
 <!--
@@ -56,9 +55,9 @@ You also have the option to register online this year at http://getmeregistered.
 
   Download (English and Spanish Versions): {{< button "Soccer - 2024 Fall REC Registration Form" "/pdf-forms/2024-Fall-Soccer-Registration-Form.pdf" >}}
 
-  <!--
-  Download (English): {{< button "STC REC BASKETBALL 2023-24 - DETAILS" "/pdf-forms/2023-24_Basketball_Registration_Info_Sheet.docx" >}}
+  Download (English and Spanish Versions): {{< button "STC REC BASKETBALL 2024-25 - Registration Form" "/pdf-forms/2024-REC-Basketball-Registration-Form.pdf" >}}
 
+  <!--
   Download (English): {{< button "STC REC BASKETBALL 2023-24 - Registration Form" "/pdf-forms/2023-24_Basketball_Registration_Form.docx" >}}
 
   Download (Spanish): {{< button "STC REC BÁSQUETBOL 2023-24 - DETALLES" "/pdf-forms/2023-24_Basketball_Registration_Info_Sheet_Spanish.docx" >}}

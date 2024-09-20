@@ -25,4 +25,4 @@ Schedules will be updated on a seasonal basis.
 
   Download the 2024 Football & Soccer REC Schedule:  {{< button "2024 Football & Soccer Schedule" "/pdf-forms/2024-Fall-Soccer-and-Football-Schedule.pdf" >}}
 
-  <!-- Download the 2022-23 Basketball REC Schedule:  {{< button "2022-23 Basketball Schedule" "2022-23-Basketball-Registration-Info-Sheet.pdf" >}} -->
+  Download the 2024-25 Basketball REC Schedule:  {{< button "2024-25 Basketball Schedule" "/pdf-forms/2024-25-REC-Basketball-Schedule.pdf" >}} 

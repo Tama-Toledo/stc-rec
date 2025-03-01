@@ -1,6 +1,6 @@
 ---
 title: Registration
-date: 2024-03-01T09:37:02-06:00
+date: 2025-03-01T07:37:02-06:00
 aliases:
   - /register/
 ---
@@ -24,8 +24,8 @@ You also have the option to register online this year at http://getmeregistered.
 
   | Activity | Registration Deadline |
   | --- | --- |
-  | Baseball and Softball Registration | Friday March 22, 2024 |
-  | All other sports registration | Monday April 29, 2024 | 
+  | Baseball and Softball Registration | Friday March 14, 2025 |
+  | All other sports registration | Monday April 28, 2025 | 
   <!--
   | Football and Soccer Registration | August 28, 2023 |
   | Basketball Registration | August 28, 2023 | 
@@ -33,17 +33,22 @@ You also have the option to register online this year at http://getmeregistered.
 
 ## Printable Forms
 
-### All Summer 2024 Activities
+### Speed & Agility Camp
 
-  Download (English): {{< button "All Activities - 2024 Summer REC Registration Form (English)" "https://docs.google.com/document/d/1j4bbd77agyxDr0sUOUe63bNncfGT2pij2JSOKQgArC0/edit?usp=drive_web" >}}  
+Download (English): {{< button "Speed & Agility Camp Registration Form (English)" "https://docs.google.com/document/d/1PUiS7VNghqiXhvoryQki8FdZOtwfFPPqXxPUL-hw27k/edit?usp=sharing"
+>}}
 
-  Download (Spanish): {{< button "All Activities - 2024 Summer REC Registration Form (Spanish)" "https://docs.google.com/document/d/1HAwMIK_Yxr_fNvqlfOVIYk_2JuG5HNRRA9V2yQS3Bb0/edit?usp=drive_web" >}}  
+### All Summer 2025 Activities
 
-### Softball / Baseball / T-Ball 2024
+  Download (English): {{< button "All Activities - 2025 Summer REC Registration Form (English)" "https://docs.google.com/document/d/1j4bbd77agyxDr0sUOUe63bNncfGT2pij2JSOKQgArC0/edit?usp=sharing" >}}  
 
-  Download (English): {{< button "Softball / Baseball / T-Ball Registration Form (English)" "https://docs.google.com/document/d/1wiGfJ6HBA1p2c8hYygiNu5iIrG1Qzm15ITXqZ7a2Aus/edit?usp=drive_web" >}}  
+  <!-- Download (Spanish): {{< button "All Activities - 2024 Summer REC Registration Form (Spanish)" "https://docs.google.com/document/d/1HAwMIK_Yxr_fNvqlfOVIYk_2JuG5HNRRA9V2yQS3Bb0/edit?usp=drive_web" >}} --> 
 
-  Download (Spanish): {{< button "Softball / Baseball / T-Ball Registration Form (Spanish)" "https://docs.google.com/document/d/1g3THF6wl9qVeqodxoj3JDjXgiNmsxcZlQVmQi8S7azA/edit?usp=drive_web" >}}
+### Softball / Baseball / T-Ball 2025
+
+  Download (English): {{< button "Softball / Baseball / T-Ball Registration Form (English)" "https://docs.google.com/document/d/1wiGfJ6HBA1p2c8hYygiNu5iIrG1Qzm15ITXqZ7a2Aus/edit?usp=sharing" >}}  
+
+  <!-- Download (Spanish): {{< button "Softball / Baseball / T-Ball Registration Form (Spanish)" "https://docs.google.com/document/d/1g3THF6wl9qVeqodxoj3JDjXgiNmsxcZlQVmQi8S7azA/edit?usp=drive_web" >}} -->
 
   <!--
   Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2023-Fall-Soccer-And-Football-Schedule-Sheet1.pdf" >}}

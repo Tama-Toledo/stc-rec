@@ -30,7 +30,9 @@ You also have the option to register online this year at http://getmeregistered.
   | Football and Soccer Registration | August 28, 2023 |
   | Basketball Registration | August 28, 2023 | 
   -->
-
+  | Football and Soccer Registration | August 29, 2024 |
+  | Basketball Registration | To be announced | 
+  
 ## Printable Forms
 
 ### Speed & Agility Camp
@@ -50,13 +52,17 @@ Download (English): {{< button "Speed & Agility Camp Registration Form (English)
 
   <!-- Download (Spanish): {{< button "Softball / Baseball / T-Ball Registration Form (Spanish)" "https://docs.google.com/document/d/1g3THF6wl9qVeqodxoj3JDjXgiNmsxcZlQVmQi8S7azA/edit?usp=drive_web" >}} -->
 
+  -->
+
+### Fall 2024 Activities
+
+  Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2024-Fall-Soccer-and-Football-Schedule.pdf" >}}
+
+  Download (English and Spanish Versions): {{< button "Flag Football - 2024 Fall REC Registration Form" "/pdf-forms/2024-Flag-Football-Registration-Form.pdf" >}}
+
+  Download (English and Spanish Versions): {{< button "Soccer - 2024 Fall REC Registration Form" "/pdf-forms/2024-Fall-Soccer-Registration-Form.pdf" >}}
+
   <!--
-  Download (English-Only): {{< button "Flag Football & Soccer Schedules" "/pdf-forms/2023-Fall-Soccer-And-Football-Schedule-Sheet1.pdf" >}}
-
-  Download (English and Spanish Versions): {{< button "Flag Football - 2023 Fall REC Registration Form" "/pdf-forms/2023-Flag-Football-Registration-Form.pdf" >}}
-
-  Download (English and Spanish Versions): {{< button "Soccer - 2023 Fall REC Registration Form" "/pdf-forms/2023-Fall-Soccer-Registration-Form.pdf" >}}
-
   Download (English): {{< button "STC REC BASKETBALL 2023-24 - DETAILS" "/pdf-forms/2023-24_Basketball_Registration_Info_Sheet.docx" >}}
 
   Download (English): {{< button "STC REC BASKETBALL 2023-24 - Registration Form" "/pdf-forms/2023-24_Basketball_Registration_Form.docx" >}}
@@ -64,5 +70,5 @@ Download (English): {{< button "Speed & Agility Camp Registration Form (English)
   Download (Spanish): {{< button "STC REC BÁSQUETBOL 2023-24 - DETALLES" "/pdf-forms/2023-24_Basketball_Registration_Info_Sheet_Spanish.docx" >}}
 
   Download (Spanish): {{< button "STC REC BÁSQUETBOL 2023-24 - Registration Form" "/pdf-forms/23-24_Basketball_Registration_Form_Spanish.docx" >}}
-
+  -->
 

@@ -7,7 +7,7 @@ Schedules will be updated on a seasonal basis.
 
 ## Attachments
   
-  Open or download the 2025 June Summer REC Schedule:  {{< button "2025 Summer REC Schedule" "https://docs.google.com/spreadsheets/d/1j7lRe6BIxdR2x5NmtrjeCjE6CNaws8ljZVw8TxHxybU/edit?usp=sharing" >}}
+  Open or download the 2025 June Summer REC Schedule:  {{< button "2025 Summer REC Schedule" "https://docs.google.com/spreadsheets/d/e/2PACX-1vShGqdxtVsRzQkSL6i0iTsJ1FKSDH6FgYKON5ddJ5s5AXOP-aIwSlImL7JE1R3RW8lt00fcbLf0uvS0/pubhtml" >}}
 
   <!---
   Download the 2023 June T-Ball REC Schedule:  {{< button "2023 T-Ball Schedule" "/pdf-forms/2023-TBallRECSchedule.pdf" >}}

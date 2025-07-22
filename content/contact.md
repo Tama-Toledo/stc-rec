@@ -23,7 +23,7 @@ Check back later for more information.
 | Jenny Schlabaugh | Board Member | 2021 | Tama |
 | Lindsay Schumacher | Treasurer | 2022 | |
 | Deanna Zmolek | Board Member | 2024 | Toledo |
-| TBD | Board Member | | Tama |
+| TBD | Board Member | TBD | Tama |
 
 
 

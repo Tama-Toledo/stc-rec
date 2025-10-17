@@ -9,21 +9,11 @@ date: 2023-04-03T11:20:35-05:00
 
 Please contact us at [stctrojans2025@gmail.com](mailto:stctrojans2025@gmail.com) or via Facebook Messenger.  
 
-## Coaches
+## Contacts
 
-Check back later for more information.
+_This is an embedded copy of a Google Doc maintained by Chelsea Ahrens._
 
-## REC Board Members
-
-| Name | Role | &emsp;Term Began&emsp; |  Representing  |
-| ---  | ---  | ---   | --- |
-| Chelsea Ahrens | President | 2022 | Toledo |
-| Sierra Berger | Board Member | 2025 | Tama |
-| Ashley Raue | Board Member | 2024 | Toledo |
-| Jenny Schlabaugh | Board Member | 2021 | Tama |
-| Lindsay Schumacher | Treasurer | 2022 | |
-| Deanna Zmolek | Board Member | 2024 | Toledo |
-| TBD | Board Member | TBD | Tama |
+<iframe src="https://docs.google.com/document/d/11svLmMhtPL3qdqb6aZadEb2frEE1ovVFFbxrLULcPAw/edit?usp=sharing&embedded=true" width="100%" height="600" frameborder="0"></iframe>
 
 
 

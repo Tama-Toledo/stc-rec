@@ -40,18 +40,20 @@ You also have the option to register online this year at http://getmeregistered.
 Download (English): {{< button "Speed & Agility Camp Registration Form (English)" "https://docs.google.com/document/d/1PUiS7VNghqiXhvoryQki8FdZOtwfFPPqXxPUL-hw27k/edit?usp=sharing"
 >}}
 
-### All Summer 2025 Activities
+
+
+<!-- ### All Summer 2025 Activities
 
   Download (English): {{< button "All Activities - 2025 Summer REC Registration Form (English)" "https://docs.google.com/document/d/e/2PACX-1vScwlZhYZpspyUTBhjY79LMdjbl5YQ64Kjy6o51AhTqX_LdSk2N52kdHXqXliNObG6x41PY3pIeIy7n/pub" >}}  
 
-  <!-- Download (Spanish): {{< button "All Activities - 2024 Summer REC Registration Form (Spanish)" "https://docs.google.com/document/d/1HAwMIK_Yxr_fNvqlfOVIYk_2JuG5HNRRA9V2yQS3Bb0/edit?usp=drive_web" >}} --> 
+  Download (Spanish): {{< button "All Activities - 2024 Summer REC Registration Form (Spanish)" "https://docs.google.com/document/d/1HAwMIK_Yxr_fNvqlfOVIYk_2JuG5HNRRA9V2yQS3Bb0/edit?usp=drive_web" >}}
 
 ### Softball / Baseball / T-Ball 2025
 
   Download (English): {{< button "Softball / Baseball / T-Ball Registration Form (English)" "https://docs.google.com/document/d/e/2PACX-1vTCYC6Y0pTJrFkvmYLLHvwPQ1Xf7smTZS7jIa_i4YYvOU7P9wv8unLJHmjP7Ry-J3n5TGQLyUUBtwrb/pub" >}}  
 
-  <!-- Download (Spanish): {{< button "Softball / Baseball / T-Ball Registration Form (Spanish)" "https://docs.google.com/document/d/1g3THF6wl9qVeqodxoj3JDjXgiNmsxcZlQVmQi8S7azA/edit?usp=drive_web" >}} -->
-
+  Download (Spanish): {{< button "Softball / Baseball / T-Ball Registration Form (Spanish)" "https://docs.google.com/document/d/1g3THF6wl9qVeqodxoj3JDjXgiNmsxcZlQVmQi8S7azA/edit?usp=drive_web" >}}
+ -->
   
 <!--
 ### Fall 2024 Activities
@@ -71,3 +73,8 @@ Download (English): {{< button "Speed & Agility Camp Registration Form (English)
   Download (Spanish): {{< button "STC REC BÁSQUETBOL 2023-24 - Registration Form" "/pdf-forms/23-24_Basketball_Registration_Form_Spanish.docx" >}}
   -->
 
+### Current Programs
+
+_This is an embedded copy of a Google Doc maintained by Chelsea Ahrens._
+
+<iframe src="https://docs.google.com/document/d/1g36PtWt8lRa19f1XGp4xwXP3g8UTTEnfMOJvbB8Y7d4/edit?usp=sharing&embedded=true" width="100%" height="600" frameborder="0"></iframe>
